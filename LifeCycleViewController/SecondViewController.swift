@@ -83,6 +83,7 @@ class SecondViewController: UIViewController {
     // если приложение работает в бекграунде и может быть закрыто, то при срабатывании этого метода можно сохранить какие-либо данные
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
+        print("I'm didReceiveMemoryWarning")
     }
     
     func helloViewDidLoad() {
