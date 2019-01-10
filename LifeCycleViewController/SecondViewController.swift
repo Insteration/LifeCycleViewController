@@ -9,6 +9,7 @@
 import UIKit
 
 class SecondViewController: UIViewController {
+
     
     //2
     // инициализируется каждый раз, когда открывается этот экран
@@ -24,6 +25,12 @@ class SecondViewController: UIViewController {
         }
     }
     
+//    override func loadView() {
+//        print("Hi! A'm load view")
+//    }
+////    override func loadViewIfNeeded() {
+//        print("Hi! I'm loadViewIfNeeded")
+//    }
     
     // 1
     // метод который срабатывает до начала загрузки представления, как только поступакт команда для открытия экрана
