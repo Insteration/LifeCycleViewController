@@ -12,6 +12,7 @@
 		D9BC27DD21E7680B00E66EE3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9BC27DB21E7680B00E66EE3 /* Main.storyboard */; };
 		D9BC27DF21E7680C00E66EE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9BC27DE21E7680C00E66EE3 /* Assets.xcassets */; };
 		D9BC27E221E7680C00E66EE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9BC27E021E7680C00E66EE3 /* LaunchScreen.storyboard */; };
+		D9BC27EA21E768AB00E66EE3 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9BC27E921E768AB00E66EE3 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D9BC27DE21E7680C00E66EE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9BC27E121E7680C00E66EE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D9BC27E321E7680C00E66EE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9BC27E921E768AB00E66EE3 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				D9BC27D721E7680B00E66EE3 /* AppDelegate.swift */,
 				D9BC27D921E7680B00E66EE3 /* ViewController.swift */,
 				D9BC27DB21E7680B00E66EE3 /* Main.storyboard */,
+				D9BC27E921E768AB00E66EE3 /* SecondViewController.swift */,
 				D9BC27DE21E7680C00E66EE3 /* Assets.xcassets */,
 				D9BC27E021E7680C00E66EE3 /* LaunchScreen.storyboard */,
 				D9BC27E321E7680C00E66EE3 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9BC27EA21E768AB00E66EE3 /* SecondViewController.swift in Sources */,
 				D9BC27DA21E7680B00E66EE3 /* ViewController.swift in Sources */,
 				D9BC27D821E7680B00E66EE3 /* AppDelegate.swift in Sources */,
 			);
